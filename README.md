@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamsid" alt="shamsid" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shamsid07" target="blank"><img src="https://img.shields.io/twitter/follow/shamsid07?logo=twitter&style=for-the-badge" alt="shamsid07" /></a> </p>
+<p align="left"> <a href="https://twitter.com/curiocode_1" target="blank"><img src="https://img.shields.io/twitter/follow/shamsid07?logo=twitter&style=for-the-badge" alt="curiocode" /></a> </p>
 
 - 📫 How to reach me **contact@shamsherahmed.in**
 
