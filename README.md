@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shamsher Ahmed</h1>
-<h3 align="center">My day to day work revolves around building Backend System for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.</h3>
+<h3 align="center">Backend Developer with a passion for creating robust and scalable systems. Skilled in various server-side programming languages such as Node.js, Python. Proficient in designing and implementing RESTful APIs and database management using SQL and NoSQL databases. Experience with cloud-based platforms such as AWS and Azure. Strong understanding of web security and performance optimization. Follow Agile and Scrum methodologies. Continuously learning new technologies and industry best practice.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamsid&label=Profile%20views&color=0e75b6&style=flat" alt="shamsid" /> </p>
 
